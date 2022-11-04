@@ -2,7 +2,28 @@
 <h1>Fertilizers-Recommendation-System-For-Disease-Prediction</h1>
 
 
+## Assignments
+* <a href="https://github.com/IBM-EPBL/IBM-Project-16875-1667201033/tree/main/Assignments" target="_blank">Assignments</a>
+
+## Project Design And Planning
+
+* <a href="https://github.com/IBM-EPBL/IBM-Project-16875-1667201033/tree/main/Project%20Design%20And%20Planning/Ideation%20Phase/" target="_blank">Ideation Phase</a>
+* <a href="https://github.com/IBM-EPBL/IBM-Project-16875-1667201033/tree/main/Project%20Design%20And%20Planning/Project%20Phase%20-%201" target="_blank">Project Phase-1</a>
+* <a href="https://github.com/IBM-EPBL/IBM-Project-16875-1667201033/tree/main/Project%20Design%20And%20Planning/Project%20Phase%20-%202" target="_blank">Project Phase-2</a>
+* <a href="https://github.com/IBM-EPBL/IBM-Project-16875-1667201033/tree/main/Project%20Design%20And%20Planning/Project%20Planning" target="_blank">Project Planning</a>
+
+## Project Development Phase
+
+* <a href="https://github.com/IBM-EPBL/IBM-Project-16875-1667201033/tree/main/Project%20Development%20Phase/Sprint%201" target="_blank">Sprint-1</a>
+* <a href="https://github.com/IBM-EPBL/IBM-Project-16875-1667201033/tree/main/Project%20Development%20Phase/Sprint%202" target="_blank">Sprint-2</a>
+
+## DataSet
+* <a href="https://drive.google.com/drive/folders/1u5ePHYkmRcF1q29SQcU9xDjbB_jJxqot?usp=share_link" target="_blank">Dataset</a>
+
  ![photo](https://user-images.githubusercontent.com/108724696/192107315-d80cfa7c-921a-4f17-a67b-0cd110afd123.jpg)
+ 
+ <h3 align="left">Languages and Tools:</h3>
+ <p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
 <div align="center">
