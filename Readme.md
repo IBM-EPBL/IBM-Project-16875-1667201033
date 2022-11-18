@@ -1,6 +1,8 @@
 
 <h1>Fertilizers-Recommendation-System-For-Disease-Prediction</h1>
 
+<h1>Teamid = PNT2022TMID52506</h1>
+
 
 ## Assignments
 * <a href="https://github.com/IBM-EPBL/IBM-Project-16875-1667201033/tree/main/Assignments" target="_blank">Assignments</a>
