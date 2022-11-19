@@ -26,6 +26,11 @@
 
 ## Demonstration Video
  * <a href="https://drive.google.com/file/d/1MP2nOctJ8VVgRx1_ZFuWcSjs2UUD1706/view?usp=drivesdk" target="_blank">Demonstration Video</a>
+ 
+ ## Project Reports
+ 
+ * <a href="https://github.com/IBM-EPBL/IBM-Project-16875-1667201033/tree/main/Final%20Deliverables/Project_Report" target="_blank">Project Report</a>
+ 
 
  ![photo](https://user-images.githubusercontent.com/108724696/192107315-d80cfa7c-921a-4f17-a67b-0cd110afd123.jpg)
  
